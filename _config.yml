@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Mr Rodrigo Caye Daudt"
+locale                   : "en-UK"
+title                    : "Rodrigo Caye Daudt"
 title_separator          : "-"
 name                     : &name "Rodrigo Caye Daudt"
-description              : &description "personal description"
+description              : &description "PhD student at ONERA and Télécom ParisTech"
 url                      : https://rcdaudt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rcdaudt.github.io"
@@ -27,7 +27,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
