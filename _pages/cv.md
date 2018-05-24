@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * PhD in Signal and Image Processing, Télécom ParisTech and ONERA, 2017-2020 (expected)
-* MSc in Computer Vision and Robotics, Université de Bourgogne, University of Girona and Heriot-Watt University, 2015-2017
+* MSc in Computer Vision and Robotics, Université de Bourgogne, University of Girona and Heriot-Watt University, 2015-2017 (VIBOT Consortium Grant)
 * BEng in Electrical Engineering, Universidade de Brasília, 2009-2015
-    * BEng in Electronic Engineering and Telecommunications, Queen Mary University of London, 2013-2014 (exchange)
+    * BEng in Electronic Engineering and Telecommunications, Queen Mary University of London, 2013-2014 (Science Without Borders Exchange Scholarship)
 
 Work experience
 ======
@@ -42,9 +42,10 @@ Work experience
     * Duration: 6 months;
     * Supervision: Dr. Anesio De Leles Ferreira Filho.
   
-Skills
+Main Skills
 ======
-* Main programming skills: MATLAB, Python, PyTorch.
+* Programming: MATLAB, Python, PyTorch, C, C++.
+* Tools: Git, LaTeX, Linux.
 * Languages: Portuguese, English, French.
 
 

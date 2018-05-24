@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Bertrand Le Saux](https://blesaux.github.io/), [Alexandre Boulch](https://aboulch.github.io/), and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
+I am a PhD student at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Bertrand Le Saux](https://www.onera.fr/en/staff/bertrand-le-saux), [Alexandre Boulch](https://aboulch.github.io/)[,](https://en.wikipedia.org/wiki/Serial_comma) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
 
-My main areas of research are computer vision and machine learning. I have also worked with remote sensing, compressed sensing, light-field photography, and robotics.
+My main areas of research are computer vision and machine learning. I have also worked with remote sensing, medical imaging, compressed sensing, light-field photography, digital sound processing, microelectronics[,](https://en.wikipedia.org/wiki/Serial_comma) and robotics.
 
 My PhD thesis aims to go beyond the current state-of-the-art in multi-temporal Earth observation using the most recent ideas in machine learning applied to computer vision and image processing.
 

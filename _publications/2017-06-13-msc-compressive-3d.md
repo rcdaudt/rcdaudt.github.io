@@ -11,3 +11,5 @@ venue: 'VIBOT MSc Thesis'
 
 [[PDF]](http://rcdaudt.github.io/files/msc_thesis_daudt.pdf) 
 
+Author: Rodrigo Caye Daudt
+

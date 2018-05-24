@@ -9,9 +9,9 @@ author_profile: true
 
 The Dataset
 ======
-The Onera Satellite Change Detection dataset address the issue of detecting changes between satellite images at different dates.
+The Onera Satellite Change Detection dataset addresses the issue of detecting changes between satellite images from different dates.
 
-It comprises 24 pairs of multispectral images taken from the [Sentinel-2 satellites](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) in 2015 and 2018. Locations are picked all over the world, in Brazil, USA, Europe, Middle-East and Asia. For each location, registered pairs of 13-band multispectral satellite images obtained by the Sentinel-2 satellites are provided. Images vary in spatial resolution between 10m, 20m and 60m.
+It comprises 24 pairs of multispectral images taken from the [Sentinel-2 satellites](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) between 2015 and 2018. Locations are picked all over the world, in Brazil, USA, Europe, Middle-East and Asia. For each location, registered pairs of 13-band multispectral satellite images obtained by the Sentinel-2 satellites are provided. Images vary in spatial resolution between 10m, 20m and 60m.
 
 Pixel-level change ground truth is provided for 14 of the image pairs. The annotated changes focus on urban changes, such as new buildings or new roads. These data can be used for training and setting parameters of change detection algorithms.
 
@@ -22,7 +22,7 @@ The Benchmark
 ======
 The algorithms can be tested in a benchmark for change detection.
 
-The ground-truth for the 10 remaining images remain undisclosed. Change prediction maps can be uploaded for evaluation on the [IEEE GRSS DASE website](http://dase.ticinumaerospace.com/). Various metrics such as per-class accuracy and confusion matrices are automatically computed on the website, and available for participants. Comparison to the best performing methods is provided in the leaderboard associated with this benchmark.
+The ground truth for the 10 remaining images remain undisclosed. Change prediction maps can be uploaded for evaluation on the [IEEE GRSS DASE website](http://dase.ticinumaerospace.com/). Various metrics such as per-class accuracy and confusion matrices are automatically computed on the website, and are available for participants. Comparison to the best performing methods is provided in the leaderboard associated with this benchmark.
   
 References
 ======
@@ -35,7 +35,7 @@ If you use this work for your projects, please take the time to cite our paper:
 
 Links
 ======
-You can find the dataset at IEEE GRSS DASE webpages:
+You can find the dataset on IEEE GRSS DASE webpages:
 
 * [http://dase.ticinumaerospace.com/](http://dase.ticinumaerospace.com/)
 * [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
