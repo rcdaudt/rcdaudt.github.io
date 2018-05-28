@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "OSCD Dataset"
+title: "Onera Satellite Change Detection Dataset"
 permalink: /oscd/
 author_profile: true
 ---
