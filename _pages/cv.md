@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 * BEng in Electrical Engineering, Universidade de Brasília, 2009-2015
     * BEng in Electronic Engineering and Telecommunications, Queen Mary University of London, 2013-2014 (Science Without Borders Exchange Scholarship)
 
-Work experience
+Work Experience
 ======
 * 2017-Present: PhD thesis research at [ONERA](https://www.onera.fr/en)'s [DTIS/IVA research group](https://www.onera.fr/dtis/unites-de-recherche#iva) and [Télécom ParisTech](https://www.telecom-paristech.fr/)'s [LTCI/IMAGES research group](https://perso.telecom-paristech.fr/bloch/tii/index.html):
     * Duration: 3 years;
@@ -41,6 +41,10 @@ Work experience
 * 2012-2013: Internship at [UnB](https://www.unb.br/)'s Electrical Energy Quality Laboratory (LQEE):
     * Duration: 6 months;
     * Supervision: Dr. Anesio De Leles Ferreira Filho.
+  
+Other Experience
+======
+* 2018-Present: Reviewer for [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
   
 Main Skills
 ======
