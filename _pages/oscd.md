@@ -35,9 +35,8 @@ If you use this work for your projects, please take the time to cite our paper:
 
 Links
 ======
-You can find the dataset on IEEE GRSS DASE webpages:
+You can download the dataset on IEEE GRSS DASE webpage:
 
-* [http://dase.ticinumaerospace.com/](http://dase.ticinumaerospace.com/)
 * [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
 
 
