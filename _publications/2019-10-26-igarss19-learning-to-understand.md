@@ -9,7 +9,7 @@ venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
 # citation: 'Rodrigo Caye Daudt, Adrien Chan-Hon-Tong, Bertrand Le Saux, Alexandre Boulch'
 ---
 
-[[PDF]](http://rcdaudt.github.io/files/2019igarss-learning-to-understand.pdf)
+[[PDF]](http://rcdaudt.github.io/files/2019igarss-learning-to-understand.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2019learning.bib)
 
 
 Authors: Rodrigo Caye Daudt, Adrien Chan-Hon-Tong, Bertrand Le Saux, Alexandre Boulch
