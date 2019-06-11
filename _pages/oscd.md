@@ -38,6 +38,9 @@ Links
 You can download the dataset on IEEE GRSS DASE webpage:
 
 * [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
+* Mirrors:
+  * [Images](https://partage.mines-telecom.fr/index.php/s/G93tRIAgLs1sVBM)
+  * [Train labels](https://partage.mines-telecom.fr/index.php/s/2D6n03k58ygBSpu)
 
 
 
