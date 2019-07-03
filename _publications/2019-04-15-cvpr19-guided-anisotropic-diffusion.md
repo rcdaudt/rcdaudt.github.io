@@ -9,7 +9,7 @@ venue: 'IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops'
 # citation: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau'
 ---
 
-[[Preprint]](https://arxiv.org/abs/1904.08208) [[PDF]](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2019gad.bib)
+[[Preprint]](https://arxiv.org/abs/1904.08208) [[PDF]](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2019gad.bib) [[GitHub]](https://github.com/rcdaudt/guided_anisotropic_diffusion)
 
 Authors: Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau
 
