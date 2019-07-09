@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-04-15-cvpr19-guided-anisotropic-diffusion
 # excerpt: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau.'
 date: 2019-04-15
-venue: 'IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops'
+venue: 'IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops (Best Student Paper Award)'
 # paperurl: 'http://rcdaudt.github.io/files/2019cvpr-gad.pdf'
 # citation: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau'
 ---
