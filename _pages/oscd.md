@@ -35,12 +35,16 @@ If you use this work for your projects, please take the time to cite our paper:
 
 Links
 ======
-You can download the dataset on IEEE GRSS DASE webpage:
+You can download the dataset on IEEE DataPort webpage:
 
-* [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
+* [https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection)
 * Mirrors:
   * [Images](https://partage.mines-telecom.fr/index.php/s/G93tRIAgLs1sVBM)
   * [Train labels](https://partage.mines-telecom.fr/index.php/s/2D6n03k58ygBSpu)
+
+Online evaluation using the hidden test annotations can be done using the IEEE GRSS DASE webpage:
+
+* [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
 
 
 
