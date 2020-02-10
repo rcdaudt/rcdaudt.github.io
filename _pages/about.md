@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Bertrand Le Saux](https://www.onera.fr/en/staff/bertrand-le-saux), [Alexandre Boulch](https://aboulch.github.io/)[,](https://en.wikipedia.org/wiki/Serial_comma) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
+I am a PhD student at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom Paris (LTCI/IMAGES)](https://www.telecom-paris.fr/) under the supervision of [Bertrand Le Saux](https://blesaux.github.io/), [Alexandre Boulch](https://aboulch.github.io/)[,](https://en.wikipedia.org/wiki/Serial_comma) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/). I am also associated with [Institut Polytechnique de Paris](https://www.ip-paris.fr/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
 My main areas of research are computer vision and machine learning. I have also worked with remote sensing, medical imaging, compressed sensing, light-field photography, digital sound processing, microelectronics[,](https://en.wikipedia.org/wiki/Serial_comma) and robotics.
 

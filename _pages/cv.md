@@ -18,9 +18,9 @@ Education
 
 Work Experience
 ======
-* 2017-Present: PhD thesis research at [ONERA](https://www.onera.fr/en)'s [DTIS/IVA research group](https://www.onera.fr/dtis/unites-de-recherche#iva) and [Télécom ParisTech](https://www.telecom-paristech.fr/)'s [LTCI/IMAGES research group](https://perso.telecom-paristech.fr/bloch/tii/index.html):
+* 2017-Present: PhD thesis research at [ONERA](https://www.onera.fr/en)'s [DTIS/IVA research group](https://www.onera.fr/dtis/unites-de-recherche#iva) and [Télécom Paris](https://www.telecom-paris.fr/)'s [LTCI/IMAGES research group](https://images.telecom-paristech.fr/staff.html):
     * Duration: 3 years;
-    * Supervision: [Dr. Bertrand Le Saux](https://www.onera.fr/en/staff/bertrand-le-saux), [Dr. Alexandre Boulch](https://aboulch.github.io/), and [Prof. Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
+    * Supervision: [Dr. Bertrand Le Saux](https://blesaux.github.io/), [Dr. Alexandre Boulch](https://aboulch.github.io/), and [Prof. Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
 
 * 2017: MSc thesis research at [HWU](https://www.hw.ac.uk/)'s [BASP research group](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm):
     * Duration: 6 months;
@@ -44,11 +44,14 @@ Work Experience
   
 Other Experience
 ======
-* 2018-Present: Reviewer for [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+* Reviewer for:
+    * [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+    * [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
+    * [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
   
 Main Skills
 ======
-* Programming: MATLAB, Python, PyTorch, C, C++.
+* Programming: Python, PyTorch, MATLAB, C, C++.
 * Tools: Git, LaTeX, Linux.
 * Languages: Portuguese, English, French.
 

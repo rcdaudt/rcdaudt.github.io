@@ -54,7 +54,7 @@ The Team
 ======
 * [Rodrigo Caye Daudt](https://rcdaudt.github.io/), rodrigo.daudt@onera.fr
 * [Bertrand Le Saux](https://blesaux.github.io/), bertrand.le_saux@onera.fr
-* [Alexandre Boulch](https://aboulch.github.io/), alexandre.boulch@onera.fr
-* [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), yann.gousseau@telecom-paristech.fr
+* [Alexandre Boulch](https://aboulch.github.io/), alexandre.boulch@valeo.com
+* [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), yann.gousseau@telecom-paris.fr
   
 
