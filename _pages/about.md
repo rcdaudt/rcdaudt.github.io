@@ -12,7 +12,7 @@ I am a PhD student at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom P
 
 My main areas of research are computer vision and machine learning. I have also worked with remote sensing, medical imaging, compressed sensing, light-field photography, digital sound processing, microelectronics[,](https://en.wikipedia.org/wiki/Serial_comma) and robotics.
 
-My PhD thesis aims to go beyond the current state-of-the-art in multi-temporal Earth observation using the most recent ideas in machine learning applied to computer vision and image processing.
+My PhD thesis aims to go beyond the current state-of-the-art in multitemporal Earth observation using the most recent ideas in machine learning applied to computer vision and image processing.
 
 <!---
 
