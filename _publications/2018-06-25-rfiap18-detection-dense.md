@@ -11,7 +11,7 @@ venue: 'Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP)'
 
 [[Preprint]](https://hal.archives-ouvertes.fr/hal-01823684) [[PDF]](http://rcdaudt.github.io/files/2018rfiap.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018detection.bib)
 
-Authors: Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau
+Authors: **Rodrigo Caye Daudt**, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau
 
 ```
 @inproceedings{daudt2018detection,

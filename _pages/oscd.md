@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+
+![Beirut images](/images/beirut-conc.png)
+
 The Dataset
 ======
 The Onera Satellite Change Detection dataset addresses the issue of detecting changes between satellite images from different dates.
@@ -15,8 +18,6 @@ It comprises 24 pairs of multispectral images taken from the [Sentinel-2 satelli
 
 Pixel-level change ground truth is provided for all 14 training and 10 test image pairs. The annotated changes focus on urban changes, such as new buildings or new roads. These data can be used for training and setting parameters of change detection algorithms.
 
-![Beirut images](/images/beirut-conc.png)
-Example: "beirut" image pair and associated change map.
 
 The Benchmark
 ======
@@ -28,9 +29,9 @@ References
 ======
 If you use this work for your projects, please take the time to cite our paper:
 
-[*Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks*, R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.](https://rcdaudt.github.io/publication/2018-08-22-urban-change-detection)
+[**Daudt, R.C.**, Le Saux, B., Boulch, A. and Gousseau, Y., 2018, July. *Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks*. In IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2018 (pp. 2115-2118). IEEE.](https://rcdaudt.github.io/publication/2018-08-22-urban-change-detection)
 
-[[PDF]](http://rcdaudt.github.io/files/2018igarss-change-detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018urban.bib)
+[[Preprint]](https://arxiv.org/abs/1810.08468) [[PDF]](http://rcdaudt.github.io/files/2018igarss-change-detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018urban.bib) [[Dataset]](https://rcdaudt.github.io/oscd/) [[GitHub]](https://github.com/rcdaudt/patch_based_change_detection)
 
 
 Links

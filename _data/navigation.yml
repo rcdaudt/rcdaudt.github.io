@@ -18,6 +18,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "HRSCD Dataset"
+    url: /hrscd/
+    
   - title: "OSCD Dataset"
     url: /oscd/
     
