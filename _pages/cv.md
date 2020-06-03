@@ -22,6 +22,9 @@ Work Experience
     * Duration: 3 years;
     * Supervision: [Dr. Bertrand Le Saux](https://blesaux.github.io/), [Dr. Alexandre Boulch](https://aboulch.github.io/), and [Prof. Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
 
+* 2019-2020: Teaching assistant at [École Nationale Supérieure de. Techniques Avancées (ENSTA ParisTech)](https://www.ensta-paristech.fr/):
+    * [MI203 : Apprentissage Automatique (Machine Learning)](https://synapses.ensta-paris.fr/catalogue/2018-2019/ue/3278/MI203-apprentissage-automatique)
+
 * 2017: MSc thesis research at [HWU](https://www.hw.ac.uk/)'s [BASP research group](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm):
     * Duration: 6 months;
     * Supervision: [Prof. Yves Wiaux](https://www.hw.ac.uk/staff/uk/eps/yves-wiaux.htm) and [Dr. Yoann Altmann](https://yoannaltmann.weebly.com/).
@@ -48,6 +51,7 @@ Other Experience
     * [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
     * [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
     * [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+    * [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
   
 Main Skills
 ======
