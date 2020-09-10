@@ -40,7 +40,7 @@ You can download the dataset on IEEE DataPort webpage:
 
 * [https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection)
 * Mirrors:
-  * [Images](https://partage.mines-telecom.fr/index.php/s/G93tRIAgLs1sVBM)
+  * [Images](https://partage.imt.fr/index.php/s/gKRaWgRnLMfwMGo)
   * [Train labels](https://partage.mines-telecom.fr/index.php/s/2D6n03k58ygBSpu)
   * [Test labels](https://partage.imt.fr/index.php/s/gpStKn4Mpgfnr63)
 
