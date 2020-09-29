@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Signal and Image Processing, Télécom ParisTech and ONERA, 2017-2020 (expected)
+* PhD in Signal and Image Processing, Télécom Paris and ONERA, 2017-2020 (expected)
 * MSc in Computer Vision and Robotics, Université de Bourgogne, University of Girona and Heriot-Watt University, 2015-2017 (VIBOT Consortium Grant)
 * BEng in Electrical Engineering, Universidade de Brasília, 2009-2015
     * BEng in Electronic Engineering and Telecommunications, Queen Mary University of London, 2013-2014 (Science Without Borders Exchange Scholarship)
@@ -22,7 +22,7 @@ Work Experience
     * Duration: 3 years;
     * Supervision: [Dr. Bertrand Le Saux](https://blesaux.github.io/), [Dr. Alexandre Boulch](https://aboulch.github.io/), and [Prof. Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/).
 
-* 2019-2020: Teaching assistant at [École Nationale Supérieure de. Techniques Avancées (ENSTA ParisTech)](https://www.ensta-paristech.fr/):
+* 2019-2020: Teaching assistant at [École Nationale Supérieure de. Techniques Avancées (ENSTA Paris)](https://www.ensta-paristech.fr/):
     * [MI203 : Apprentissage Automatique (Machine Learning)](https://synapses.ensta-paris.fr/catalogue/2018-2019/ue/3278/MI203-apprentissage-automatique)
 
 * 2017: MSc thesis research at [HWU](https://www.hw.ac.uk/)'s [BASP research group](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm):
