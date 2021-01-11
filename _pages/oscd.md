@@ -55,7 +55,7 @@ Online evaluation using the hidden test annotations can be done using the IEEE G
 
 The Team
 ======
-* [Rodrigo Caye Daudt](https://rcdaudt.github.io/), rodrigo.daudt@onera.fr
+* [Rodrigo Caye Daudt](https://rcdaudt.github.io/), rodrigo.cayedaudt@geod.baug.ethz.ch
 * [Bertrand Le Saux](https://blesaux.github.io/), bls@ieee.org
 * [Alexandre Boulch](https://aboulch.github.io/), alexandre.boulch@valeo.com
 * [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), yann.gousseau@telecom-paris.fr

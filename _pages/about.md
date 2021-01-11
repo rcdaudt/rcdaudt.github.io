@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom Paris (LTCI/IMAGES)](https://www.telecom-paris.fr/) under the supervision of [Bertrand Le Saux](https://blesaux.github.io/), [Alexandre Boulch](https://aboulch.github.io/)[,](https://en.wikipedia.org/wiki/Serial_comma) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/). I am also associated with [Institut Polytechnique de Paris](https://www.ip-paris.fr/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+I am a scientific assistant at [ETH Zürich](https://ethz.ch/en.html)'s [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html), which is a part of the [Photogrammetry and Remote Sensing (PRS) Group](https://prs.igp.ethz.ch/). I currently work under the supervision of [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and [Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562). My central topic of research is the mapping of snow depth in the Swiss alps with high spatial and temporal resolution using remote sensing data sources in collaboration with the [Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)](https://www.wsl.ch/en/index.html) and [ExoLabs](https://www.exolabs.ch/), and I also explore other lines of research in the intersection of computer vision, machine learning[,](https://en.wikipedia.org/wiki/Serial_comma) and remote sensing.
 
-My main areas of research are computer vision and machine learning. I have also worked with remote sensing, medical imaging, compressed sensing, light-field photography, digital sound processing, microelectronics[,](https://en.wikipedia.org/wiki/Serial_comma) and robotics.
+I have previously completed my PhD studies at [ONERA (DTIS/IVA)](https://www.onera.fr/) and [Télécom Paris (LTCI/IMAGES)](https://www.telecom-paris.fr/) under the supervision of [Bertrand Le Saux](https://blesaux.github.io/), [Alexandre Boulch](https://aboulch.github.io/)[,](https://en.wikipedia.org/wiki/Serial_comma) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/). During this time, I was also associated with [Institut Polytechnique de Paris](https://www.ip-paris.fr/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). My thesis explored the usage of convolutional neural networks for change detection and related data quality problems, such as label noise and domain shifts.
 
-My PhD thesis aims to go beyond the current state-of-the-art in multitemporal Earth observation using the most recent ideas in machine learning applied to computer vision and image processing.
+My main areas of research are computer vision and machine learning, especially their applications to remote sensing. I have also worked with medical imaging, compressed sensing, light-field photography, digital sound processing, microelectronics[,](https://en.wikipedia.org/wiki/Serial_comma) and robotics.
+
+
 
 <!---
 

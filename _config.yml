@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Rodrigo Caye Daudt"
   avatar           : "profile.png"
-  bio              : "PhD student at ONERA and Télécom Paris"
-  location         : "Paris, France"
+  bio              : "Scientific assistent (postdoc) at ETH Zürich / EcoVision Lab"
+  location         : "Zürich, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zTwHChcAAAAJ&hl=en"
-  email            : "rodrigo(dot)daudt(at)onera(dot)fr"
-  uri              : "https://www.onera.fr/en/staff/rodrigo-daudt"
+  email            : "rodrigo.cayedaudt@geod.baug.ethz.ch"
+  uri              : "https://baug.ethz.ch/en/department/people/staff/personen-detail.Mjc4NjM3.TGlzdC82NzksLTU1NTc1NDEwMQ==.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  personal         : "https://www.onera.fr/en/staff/rodrigo-daudt"
+  personal         : "https://baug.ethz.ch/en/department/people/staff/personen-detail.Mjc4NjM3.TGlzdC82NzksLTU1NTc1NDEwMQ==.html"
 
 
 # Reading Files
