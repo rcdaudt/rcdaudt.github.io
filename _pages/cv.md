@@ -58,6 +58,9 @@ Other Experience
     * [IEEE Geoscience and Remote Sensing Letters (GRSL)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
     * [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
     * [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
+    * [IEEE International Geoscience and Remote Sensing Symposium (IGARSS)](https://www.grss-ieee.org/conferences/future-igarss/)
+    * [IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops (EarthVision)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
+    * [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
   
 Main Skills
 ======
