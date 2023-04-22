@@ -21,10 +21,9 @@ The dataset is split into five parts:
   - 2006 land cover maps
   - 2012 land cover maps
 
-The 2006 images are under a non-redistributable licence, but can be downloaded directly from IGN's website ( https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-ortho-50-cm or https://www.geoportail.gouv.fr/carte). The necessary files are:
-  - BD ORTHO® 50 cm, D 14 - CALVADOS, 2005
-  - BD ORTHO® 50 cm, D 35 - ILLE-ET-VILLAINE, 2006
-For help with downloading the images please contact the authors.
+~~The 2006 images are under a non-redistributable licence, but can be downloaded directly from IGN's website.~~
+
+Update as of 2023: All data can now be downladed from DataPort.
 
 
 
@@ -69,7 +68,7 @@ This dataset is released under Creative-Commons BY-NC-SA licence. For commercial
 
 The Team
 ======
-* [Rodrigo Caye Daudt](https://rcdaudt.github.io/), rodrigo.cayedaudt@geod.baug.ethz.ch
+* [Rodrigo Caye Daudt](https://rcdaudt.github.io/), rcayedaudt@ethz.ch
 * [Bertrand Le Saux](https://blesaux.github.io/), bls@ieee.org
 * [Alexandre Boulch](https://aboulch.github.io/), alexandre.boulch@valeo.com
 * [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), yann.gousseau@telecom-paris.fr
