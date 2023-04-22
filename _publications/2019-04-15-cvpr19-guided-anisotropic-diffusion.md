@@ -9,9 +9,11 @@ venue: 'IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops (Best 
 # citation: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau'
 ---
 
+**Rodrigo Caye Daudt**, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau
+\\
+\\
 [[CVF]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Daudt_Guided_Anisotropic_Diffusion_and_Iterative_Learning_for_Weakly_Supervised_Change_CVPRW_2019_paper.pdf) [[Preprint]](https://arxiv.org/abs/1904.08208) [[PDF]](http://rcdaudt.github.io/files/2019cvpr-gad.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2019gad.bib) [[GitHub]](https://github.com/rcdaudt/guided_anisotropic_diffusion)
 
-Authors: **Rodrigo Caye Daudt**, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau
 
 ```
 @inproceedings{daudt2019gad,

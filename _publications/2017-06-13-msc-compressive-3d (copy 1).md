@@ -9,7 +9,10 @@ venue: 'VIBOT MSc Thesis'
 # citation: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch'
 ---
 
+
+**Rodrigo Caye Daudt**
+\\
+\\
 [[PDF]](http://rcdaudt.github.io/files/msc_thesis_daudt.pdf) 
 
-Author: **Rodrigo Caye Daudt**
 

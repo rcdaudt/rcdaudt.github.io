@@ -9,9 +9,12 @@ venue: 'IEEE International Conference on Image Processing (ICIP)'
 # citation: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch'
 ---
 
+
+**Rodrigo Caye Daudt**, Bertrand Le Saux, Alexandre Boulch
+\\
+\\
 [[Preprint]](https://arxiv.org/abs/1810.08462) [[PDF]](http://rcdaudt.github.io/files/2018icip-fully-convolutional.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018fully.bib) [[GitHub]](https://github.com/rcdaudt/fully_convolutional_change_detection)
 
-Authors: **Rodrigo Caye Daudt**, Bertrand Le Saux, Alexandre Boulch
 
 ```
 @inproceedings{daudt2018fully,
