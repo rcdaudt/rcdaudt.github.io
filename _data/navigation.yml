@@ -24,5 +24,8 @@ main:
   - title: "OSCD Dataset"
     url: /oscd/
     
+  - title: "DADA"
+    url: /dada/
+    
 #  - title: "Guide"
 #    url: /markdown/
