@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+-------
+
+
+This page's last significant update was in **2021**. For up to date information, please check out my [Google Scholar profile](https://scholar.google.com/citations?user=zTwHChcAAAAJ) or [contact me](mailto:rcayedaudt@ethz.ch).
+
+
+-------
+
+
 Education
 ======
 * PhD in Signal and Image Processing, Télécom Paris and ONERA, 2017-2020
@@ -18,7 +27,7 @@ Education
 
 Work Experience
 ======
-* 2020-Present: Scientific assistant (postdoc) at [ETH Zürich](https://ethz.ch/en.html)'s [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html), which is a part of the [Photogrammetry and Remote Sensing (PRS) Group](https://prs.igp.ethz.ch/):
+* 2020-Present: Scientific assistant (postdoc) at [ETH Zurich](https://ethz.ch/en.html)'s [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html), which is a part of the [Photogrammetry and Remote Sensing (PRS) Group](https://prs.igp.ethz.ch/):
     * Supervision: [Prof. Dr. Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986) and [Prof. Dr. Jan Dirk Wegner](https://igp.ethz.ch/personen/person-detail.html?persid=186562);
     * Collaborations: [Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)](https://www.wsl.ch/en/index.html), [ExoLabs](https://www.exolabs.ch/).
 
@@ -52,6 +61,8 @@ Work Experience
 Other Experience
 ======
 * Reviewer for:
+    * [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
+    * [IEEE International Conference on Computer Vision (ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
     * [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
     * [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
     * [ISPRS Journal of Photogrammetry and Remote Sensing (JPRS)](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
