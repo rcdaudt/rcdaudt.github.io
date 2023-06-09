@@ -18,14 +18,14 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "DADA"
+    url: /dada/
+    
   - title: "HRSCD Dataset"
     url: /hrscd/
     
   - title: "OSCD Dataset"
     url: /oscd/
-    
-  - title: "DADA"
-    url: /dada/
     
 #  - title: "Guide"
 #    url: /markdown/
