@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Rodrigo Caye Daudt"
   avatar           : "profile.png"
-  bio              : "Scientific assistant (postdoc) at ETH Zurich"
+  bio              : "Senior Computer Vision Research Engineer at Sony"
   location         : "Zürich, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zTwHChcAAAAJ&hl=en"
-  email            : "rcayedaudt@ethz.ch"
-  uri              : "https://baug.ethz.ch/en/department/people/staff/personen-detail.Mjc4NjM3.TGlzdC82NzksLTU1NTc1NDEwMQ==.html"
+  email            : "rodrigo.cayedaudt@sony.com"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  personal         : "https://baug.ethz.ch/en/department/people/staff/personen-detail.Mjc4NjM3.TGlzdC82NzksLTU1NTc1NDEwMQ==.html"
+  personal         :
 
 
 # Reading Files
